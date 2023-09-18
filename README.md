@@ -1,4 +1,6 @@
-[![MasterHead](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)]
+<div align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="MasterHead">
+</div>
 <h1 align="center">Hi 👋, I'm Murtazokhon Gofurov</h1>
 <h3 align="center">I'm Software developer!</h3>
 
