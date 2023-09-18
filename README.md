@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif)]
+[![MasterHead](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)]
 <h1 align="center">Hi 👋, I'm Murtazokhon Gofurov</h1>
 <h3 align="center">I'm Software developer!</h3>
 
