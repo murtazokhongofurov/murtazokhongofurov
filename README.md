@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif)]
 <h1 align="center">Hi 👋, I'm Murtazokhon Gofurov</h1>
 <h3 align="center">I'm Software developer!</h3>
 
