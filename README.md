@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Workly](https://workly.io)
 
-- 💬 Ask me about **Go,Microservice,Sql,NoSql,Kafka,RabbiqMq,Mqtt,Grpc,Rest,Python**
+- 💬 Ask me about **Go,Microservice,Sql,NoSql,Kafka,RabbitMQ,Mqtt,Grpc,Rest,Python**
   
 - 📫 How to reach me **gofurovmurtazoxon@gmail.com**
 
