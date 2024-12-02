@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Murtazokhon Gofurov</h1>
 <h3 align="center">I'm Software developer!</h3>
 
-- 🔭 I’m currently working on [Workly](https://workly.io)
+- 🔭 I’m currently working on [Freelance](https://t.me/murtazokhon_gofurov)
 
 - 💬 Ask me about **Go,Microservice,Sql,NoSql,Kafka,RabbitMQ,Mqtt,Grpc,Rest,Python**
   
